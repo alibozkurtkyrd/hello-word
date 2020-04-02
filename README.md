@@ -1,2 +1,5 @@
 # hello-word
-software assigment2
+software assigment
+
+I am Computer Science students
+I am learning github
